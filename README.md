@@ -1,20 +1,25 @@
-<h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy bryan</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Bryan</h1>
 <h3 align="center">Desarrollador Java | Estudiante de Ingeniería de Sistemas</h3>
 
-<a href="https://github.com/BryanOrtiz">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=1AFFD5&center=true&vCenter=true&width=500&lines=Desarrollador+Java+Backend;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+tecnolog%C3%ADa;En+constante+aprendizaje" alt="Typing SVG" />
-</a>
-
-
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Lenguajes y Herramientas:
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,js,python,vue,spring,mysql,idea,vscode,html,css,git,figma," />
+<p align="center">
+  <a href="https://github.com/BryanOrtiz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=1AFFD5&center=true&vCenter=true&width=500&lines=Desarrollador+Java+Backend;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+tecnolog%C3%ADa;En+constante+aprendizaje" alt="Typing SVG" />
   </a>
+</p>
 
-##
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="500" alt="Coding Animation" />
+</p>
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" style="vertical-align: middle; margin-right: 8px;">
+  Lenguajes y Herramientas:
+</h2>
+
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,python,vue,spring,mysql,idea,vscode,html,css,git,figma" height="35" />
+  </a>
 
 
 
