@@ -19,25 +19,39 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
-</div>
-
-
+## 🚀 Mis Proyectos Públicos
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/tuusuario/Proyecto1" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto1&theme=algolia" alt="Proyecto1"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/tuusuario/Proyecto2" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto2&theme=algolia" alt="Proyecto2"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/tuusuario/Proyecto3" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto3&theme=algolia" alt="Proyecto3"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/tuusuario/Proyecto4" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto4&theme=algolia" alt="Proyecto4"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-------
+<p align="center">
+✨ Estos son algunos de mis proyectos más destacados en los que aplico mis conocimientos de <b>Java, Spring Boot, SQL, y desarrollo web</b>.  
+Puedes explorarlos y dejar una ⭐ si te gustan.
+</p>
 
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
-
-Last Edited on: 22/12/2021
