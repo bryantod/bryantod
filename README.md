@@ -25,25 +25,13 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/bryantod/Proyecto1" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto1&theme=algolia" alt="Proyecto1"/>
+        <a href="https://github.com/bryantod/Proyectos" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryantod&repo=Proyectos&theme=algolia" alt="Proyectos"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/bryantod/Proyecto2" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto2&theme=algolia" alt="Proyecto2"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/bryantod/Proyecto3" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto3&theme=algolia" alt="Proyecto3"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/bryantod/Proyecto4" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto4&theme=algolia" alt="Proyecto4"/>
+        <a href="https://github.com/bryantod/bryantod" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryantod&repo=bryantod&theme=algolia" alt="bryantod"/>
         </a>
       </td>
     </tr>
@@ -51,7 +39,7 @@
 </div>
 
 <p align="center">
-✨ Estos son algunos de mis proyectos más destacados en los que aplico mis conocimientos de <b>Java, Spring Boot, SQL, y desarrollo web</b>.  
+✨ Estos son algunos de mis proyectos más destacados en los que aplico mis conocimientos de <b>Java, Spring Boot, SQL</b> y desarrollo web.  
 Puedes explorarlos y dejar una ⭐ si te gustan.
 </p>
 
