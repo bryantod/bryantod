@@ -25,24 +25,24 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/tuusuario/Proyecto1" target="_blank">
+        <a href="https://github.com/bryantod/Proyecto1" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto1&theme=algolia" alt="Proyecto1"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/tuusuario/Proyecto2" target="_blank">
+        <a href="https://github.com/bryantod/Proyecto2" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto2&theme=algolia" alt="Proyecto2"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/tuusuario/Proyecto3" target="_blank">
+        <a href="https://github.com/bryantod/Proyecto3" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto3&theme=algolia" alt="Proyecto3"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/tuusuario/Proyecto4" target="_blank">
+        <a href="https://github.com/bryantod/Proyecto4" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=Proyecto4&theme=algolia" alt="Proyecto4"/>
         </a>
       </td>
